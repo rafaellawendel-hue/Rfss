@@ -78,7 +78,7 @@ required></textarea>
 <!-- Conteúdo vem a seguir -->
 </main>
 <footer>
-<small>&copy; 2025 Maria Silva. Todos os direitos reservados.</small>
+<small>&copy; 2025 Hauck. Todos os direitos reservados.</small>
 </footer>
 </body>
 </html>
