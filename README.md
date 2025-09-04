@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Portfólio de Maria Silva</title>
+<title>Portfólio de Hauck</title>
 <meta name="description" content="Portfólio simples feito em HTML puro.">
 </head>
 <body>
 <header>
-<h1>Portfólio de Maria Silva</h1>
+<h1>Portfólio de Hauck</h1>
 <p>Estudante de desenvolvimento web — HTML, CSS e JavaScript.</p>
 <nav aria-label="Navegação principal">
 <ul>
@@ -51,8 +51,7 @@ de frente.">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
 <p>
-Olá! Sou a Maria e estou começando no desenvolvimento web.
-Gosto de aprender criando projetos simples e práticos.
+Oie, sou a Hauck!
 </p>
 </section>
 <section id="contato">
