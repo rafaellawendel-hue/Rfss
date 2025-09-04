@@ -18,6 +18,19 @@
 </ul>
 </nav>
 </header>
+  <main>
+<section id="sobre">
+<h2>Sobre</h2>
+<figure>
+<img src="https://via.placeholder.com/240" alt="Retrato de Maria sorrindo
+de frente.">
+<figcaption>Foto ilustrativa do perfil</figcaption>
+</figure>
+<p>
+Olá! Sou a Maria e estou começando no desenvolvimento web.
+Gosto de aprender criando projetos simples e práticos.
+</p>
+</section>
 <!-- Conteúdo vem a seguir -->
 </body>
 </html>
