@@ -77,5 +77,9 @@ required></textarea>
 </form>
 </section>
 <!-- Conteúdo vem a seguir -->
+</main>
+<footer>
+<small>&copy; 2025 Maria Silva. Todos os direitos reservados.</small>
+</footer>
 </body>
 </html>
